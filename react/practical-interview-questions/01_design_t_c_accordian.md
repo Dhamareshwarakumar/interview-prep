@@ -1,4 +1,4 @@
-### Design Terms & Conditions Accordian
+## Design Terms & Conditions Accordian
 
 -   Design an accordian which has terms and conditions as each item.
 -   No two accordian items can be in expanded state at the same time.
@@ -6,7 +6,7 @@
 -   Every Terms & Conditions (accordian item) should have a checkbox.
 -   There should be a continue button (disabled initially) that must be activated only if all the terms and conditions are checked.
 
-**NOTE:** Find full code [here]()
+**NOTE:** Find full code [here](https://github.com/Dhamareshwarakumar/portfolio/tree/main/client/src/screens/ip/react/piq/TCAccordian)
 
 `App.js`
 
